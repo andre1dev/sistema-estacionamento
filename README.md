@@ -2,4 +2,4 @@
 
 APP JS Cadastrar Placas e Carros.
 
-![Captura de tela de 2019-05-12 11-25-11](https://user-images.githubusercontent.com/27355729/57583646-c7fbb380-74a8-11e9-8b7c-b7f3c1ece85b.png)
+![Captura de Tela (271)](https://github.com/andre1dev/sistema-estacionamento/assets/109448950/4eeab9c7-cbf4-4ef8-9001-4f3d92116527)
